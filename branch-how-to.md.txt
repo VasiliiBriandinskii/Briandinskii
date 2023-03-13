@@ -1,0 +1,30 @@
+Creating a branch via the branches overview
+On GitHub.com, navigate to the main page of the repository.
+
+Above the list of files, click  Branches.
+
+Screenshot of the repository page. A link, labeled "55 branches", is highlighted with an orange outline.
+
+Click New branch.
+
+Screenshot of the "Branches" page for a repository. A green button, labeled "New branch", is highlighted with an orange outline.
+
+Under "Branch name", type a name for the branch.
+
+Under "Branch source", choose a source for your branch.
+
+If your repository is a fork, select the repository dropdown menu and click your fork or the upstream repository.
+Select the branch dropdown menu and click a branch.
+Click Create branch.
+
+Creating a branch using the branch dropdown
+On GitHub.com, navigate to the main page of the repository.
+
+Select the branch selector dropdown menu.
+
+Screenshot of the repository page. A dropdown menu, labeled with a branch icon and "main", is highlighted with an orange outline.
+
+Optionally, if you want to create the new branch from a branch other than the default branch of the repository, click another branch, then select the branch selector dropdown menu again.
+
+In the "Find or create a branch..." text field, type a unique name for your new branch, then click Create branch.
+
